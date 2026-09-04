@@ -91,7 +91,8 @@ Proyek ini menggunakan Firebase & Cloudflare Worker milik tim pengembang. Untuk 
 
 ## 🖼️ Cuplikan Layar
 
-*(Tambahkan screenshot dashboard admin, dashboard mahasiswa, dan chatbot AI di sini sebelum submit)*
+[*(https://ibb.co.com/LzxXvRd6)*]/ADMIN
+[*(https://ibb.co.com/S7MjFK6S)*]/USER
 
 ---
 
