@@ -1,0 +1,42 @@
+# ================================
+# .gitignore — Cakrawala (TCC 2026)
+# ================================
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Kredensial & environment (jaga-jaga kalau nanti dipisah dari kode)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Node.js (kalau nanti pakai tooling build/npm)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Firebase CLI (kalau nanti pakai firebase-tools lokal)
+.firebase/
+firebase-debug.log
+.firebaserc
+
+# Build output (jaga-jaga kalau nanti ada proses build)
+dist/
+build/
+
+# File sementara / backup
+*.bak
+*.tmp
+*.log
