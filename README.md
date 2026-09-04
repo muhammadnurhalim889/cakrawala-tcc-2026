@@ -91,7 +91,7 @@ Proyek ini menggunakan Firebase & Cloudflare Worker milik tim pengembang. Untuk 
 
 ## 🖼️ Cuplikan Layar
 
-akses tautan untuk melihat screenshot halaman login admin/user
+akses tautan untuk melihat screenshot halaman login admin/user >> 
 [*(https://ibb.co.com/LzxXvRd6)*]/ADMIN
 [*(https://ibb.co.com/S7MjFK6S)*]/USER
 
