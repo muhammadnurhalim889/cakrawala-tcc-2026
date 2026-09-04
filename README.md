@@ -74,8 +74,7 @@ Seluruh fitur AI memiliki **fallback rule-based** — jika API AI tidak dapat di
 
 ## 🚀 Cara Menjalankan
 
-1. Buka [`sistem-akademik-ai.html`](./sistem-akademik-ai.html) langsung di browser, **atau**
-2. Akses versi live: `[isi URL GitHub Pages di sini]`
+1. Buka (. https://muhammadnurhalim889.github.io/cakrawala-tcc-2026) langsung di browser
 
 **Akun demo:**
 - Admin: hubungi tim pengembang / lihat kredensial demo di dokumen presentasi
