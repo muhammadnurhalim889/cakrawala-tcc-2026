@@ -99,7 +99,7 @@ akses tautan untuk melihat screenshot halaman login admin/user >>
 
 ## 👥 Tim Pengembang
 
-- [Isi nama & instansi tim di sini]
+- [M.N.H_WEB-DEVELOPMENT]
 
 ---
 
