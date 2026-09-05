@@ -21,7 +21,7 @@ Cakrawala adalah sistem akademik mahasiswa yang mengintegrasikan Artificial Inte
 - **Profil** — ringkasan data akademik
 - **Nilai Saya** — transkrip, visualisasi tren IPK ("growth rings"), **AI Academic Advisor** (rekomendasi belajar personal + referensi materi), cetak/simpan PDF
 - **Pengumuman** — otomatis terfilter sesuai kelas
-- **Tanya AI** — chatbot akademik interaktif (Gemini AI) otomatis melakukan obrolan seputar nilai mahasiswa/user, riwayat percakapan otomatis kedaluwarsa setelah 7 hari
+- **Tanya AI** — chatbot akademik interaktif (Gemini AI) otomatis melakukan obrolan seputar nilai mahasiswa/user, riwayat percakapan otomatis hilang setelah 7 hari
 - **Mentoring** — mahasiswa berprestasi (IPK > 3.4) dapat mendaftar jadi mentor sebaya
 
 ### Lainnya
